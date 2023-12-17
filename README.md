@@ -1,8 +1,7 @@
-#             Ethercopper Theme
+![Ethercopper Theme Preview](images/favicon-32x32.png) Ethercopper!
 
-![Ethercopper Theme Preview](images/favicon-16x16.png)
-
-**Ethercopper** is an enchanting theme designed to elevate your coding experience in both the GNOME Terminal and Vim. Immerse yourself in the harmonious blend of ethereal atmospheres and warm metallic tones, creating a coding environment that is both visually appealing and conducive to productivity.
+**Ethercopper** </br>
+is an enchanting theme designed to elevate your coding experience in both the GNOME Terminal and Vim. Immerse yourself in the harmonious blend of ethereal atmospheres and warm metallic tones, creating a coding environment that is both visually appealing and conducive to productivity.
 
 ![neofetch](images/neofetch.png)
 ![C_code](images/C_code.png)
